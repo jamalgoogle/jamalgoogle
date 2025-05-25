@@ -2,11 +2,11 @@
 <h3 align="center">As a seasoned Backend Engineer, I specialize in architecting scalable, high-performance, and secure backend solutions. My expertise spans a versatile tech stack, ensuring robust system development from concept to deployment.
 My core toolkit includes:
 
-Languages & Frameworks: Javascript (Node.js, Express.js, NestJS), Java (Spring Boot), Python (Django, Flask), C++, and C# (ASP.NET Core).<br/>
-Databases: Both Relational (PostgreSQL, MySQL, SQL Server) and NoSQL (MongoDB, Cassandra, Redis).
-Messaging: Kafka, RabbitMQ, and ActiveMQ for efficient data flow.
-Cloud Platforms: Extensive experience with AWS, Azure, and GCP, leveraging services like EC2, Lambda, RDS, Azure App Service, and GCP Compute Engine.
-DevOps & Tools: Proficient in Docker and Kubernetes for containerization; Jenkins, GitLab CI/CD, and GitHub Actions for CI/CD; and Prometheus, Grafana, and ELK Stack for monitoring.
+<strong>Languages & Frameworks</strong>: Javascript (Node.js, Express.js, NestJS), Java (Spring Boot), Python (Django, Flask), C++, and C# (ASP.NET Core).<br/>
+Databases: Both Relational (PostgreSQL, MySQL, SQL Server) and NoSQL (MongoDB, Cassandra, Redis).<br/>
+Messaging: Kafka, RabbitMQ, and ActiveMQ for efficient data flow.<br/>
+Cloud Platforms: Extensive experience with AWS, Azure, and GCP, leveraging services like EC2, Lambda, RDS, Azure App Service, and GCP Compute Engine.<br/>
+DevOps & Tools: Proficient in Docker and Kubernetes for containerization; Jenkins, GitLab CI/CD, and GitHub Actions for CI/CD; and Prometheus, Grafana, and ELK Stack for monitoring.<br/>
 I'm continuously evolving my skills, with a focus on microservices architecture, advanced cloud-native patterns (like serverless and event-driven systems), and real-time data processing. My goal is to consistently deliver high-quality, maintainable, and scalable backend solutions that power innovative applications.</h3>
 </ul>  
 
