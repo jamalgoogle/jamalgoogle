@@ -2,9 +2,9 @@
 
 # Hi, I'm Bassem Jamal 👋
 
-### Backend Engineer · DevOps · Cloud-Native Architecture · Distributed Systems
+### DevOps Engineer · Backend Engineer · Cloud Architect
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Node.js+%2F+Java+%2F+Python;Microservices+%26+Event-Driven+Systems;Cloud-Native+%7C+AWS+%2F+Azure+%2F+GCP;Always+learning%2C+always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%7C+CI%2FCD+%26+Infrastructure+as+Code;Backend+Engineer+%7C+Node.js+%2F+Java+%2F+Python;Cloud+Architect+%7C+AWS+%2F+Azure+%2F+GCP;Building+scalable%2C+resilient%2C+automated+systems." alt="Typing SVG" />
 
 </div>
 
@@ -12,20 +12,48 @@
 
 ### 🧭 About Me
 
-I architect scalable, high-performance, and secure backend systems — from a single API to a full distributed platform. My focus areas are **microservices architecture**, **event-driven systems**, and **cloud-native patterns** like serverless computing and real-time data processing.
+I work across three connected disciplines: designing **backend systems**, deploying and scaling them in the **cloud**, and automating the whole lifecycle with **DevOps** practices. That combination means I don't just write the service — I containerize it, pipeline it, monitor it, and keep it running reliably in production.
 
-- 🔭 Currently building scalable backend systems with a focus on microservices and event-driven architecture
-- 🌱 Deepening my expertise in serverless patterns and real-time data pipelines
+- ☁️ **Cloud:** Design and operate infrastructure on AWS, Azure, and GCP — compute, networking, storage, and managed services
+- ⚙️ **DevOps:** Build CI/CD pipelines, containerize and orchestrate workloads, and set up observability from day one
+- 🖥️ **Backend:** Architect scalable, secure APIs and microservices that the infrastructure underneath is built to support
+- 🔭 Currently focused on Infrastructure as Code and event-driven microservices architecture
 - 👨‍💻 All my projects live at **[github.com/jamalgoogle](https://github.com/jamalgoogle)**
 - 📫 Reach me at **bassemgamal246@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### ☁️ Cloud Platforms
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+
+---
+
+### ⚙️ DevOps & Infrastructure
+
+**Containers & Orchestration**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+
+**CI/CD**
+
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
+
+**Monitoring & Observability**
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch" />
+
+**Systems & Networking**
+
+<img src="https://skillicons.dev/icons?i=linux,nginx,git,postman" />
+
+---
+
+### 🖥️ Backend Engineering
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,java,spring,python,django,flask,cpp,cs,dotnet,ts" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,python,django,flask,cpp,cs,dotnet,ts,js" />
 
 **Databases**
 
@@ -35,15 +63,9 @@ I architect scalable, high-performance, and secure backend systems — from a si
 
 <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
 
-**Cloud Platforms**
+---
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-
-**DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,grafana,prometheus,elasticsearch,git,linux,nginx,postman" />
-
-**Frontend & Other**
+### 🎨 Frontend & Design (supporting toolkit)
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,graphql,figma,photoshop,illustrator" />
 
@@ -77,5 +99,5 @@ I architect scalable, high-performance, and secure backend systems — from a si
 </div>
 
 <div align="center">
-<sub>Thanks for stopping by — always open to collaborating on interesting backend problems.</sub>
+<sub>From infrastructure to API — always open to collaborating on systems that need to scale.</sub>
 </div>
