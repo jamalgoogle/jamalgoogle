@@ -75,8 +75,8 @@ I work across three connected disciplines: designing **backend systems**, deploy
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jamalgoogle&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamalgoogle&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jamalgoogle&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jamalgoogle&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamalgoogle&theme=tokyonight&hide_border=true" />
 
